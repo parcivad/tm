@@ -22,5 +22,9 @@
   "dependencies": {
     "open": "^8.0.5",
     "node-fetch": "^2.6.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/LegendDragon11/tm/issues"
+  },
+  "homepage": "https://github.com/LegendDragon11/my_package"
 }
