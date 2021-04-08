@@ -1,22 +1,19 @@
 {
-  "name": "tm",
-  "version": "1.0.0",
+  "name": "tm.js",
+  "version": "1.1.7",
   "description": "Using OAuth in your project, presents token and other OAuth stuff. [local]",
+  "main": "index.js",
   "repository": "LegendDragon11/tm",
   "author": {
     "name": "Timur Stegmann",
     "url": "https://www.github.com/Legenddragon11"
   },
-  "main": "index.js",
   "keywords": [
     "oauth",
     "nodejs authorization",
     "token",
     "access token",
     "local oauth server"
-  ],
-  "files": [
-    "index.js"
   ],
   "license": "ISC",
   "dependencies": {
