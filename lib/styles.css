@@ -1,0 +1,68 @@
+body {
+    background-color: rgba(9,9,27,0.73);
+}
+
+.middlescreen {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -190px;
+}
+
+.authorizebox {
+    position: absolute;
+    background-color: #171d21;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    align-items: center;
+    display: block;
+    width: 400px;
+    height: 500px;
+}
+
+.header {
+    position: relative;
+    overflow: hidden;
+    height: 250px;
+}
+
+.content {
+    position: relative;
+    overflow: hidden;
+    height: 170px;
+}
+
+.footer {
+    background-color: #3e474d;
+    position: relative;
+    overflow: hidden;
+    height: 80px;
+}
+
+
+.infoImg {
+    margin-top: 13px;
+    margin-left: 110px;
+    display: flex;
+    width: 180px;
+    height: 170px;
+}
+
+.infoTitle {
+    color: #fff;
+    font-family: "DIN Alternate";
+    font-size: 28px;
+}
+
+.infoContent {
+    color: #7e7e7e;
+    font-family: "DIN Condensed";
+    font-size: 20px;
+}
+
+.infoFooter {
+    color: #6d6d6d;
+    font-family: "DIN Alternate";
+    font-size: 15px;
+}
